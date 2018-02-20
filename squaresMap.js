@@ -7,7 +7,7 @@ You should use the .map method, which we discussed in the previous assignment.*/
 
 
 function squares(array) {
-    return array.map(num => num *num);
+    return array.map(num => num * num);
 }
   
   /* From here down, you are not expected to 
